@@ -1,13 +1,7 @@
-<div align="center">
+## Hi there, I'm Daniela Leyton
+#### Product Designer · Product Ops · AI Product Builder
 
-## Hi there, I'm Daniela 👋
-![Product Design](https://img.shields.io/badge/Product_Design-24292F?style=for-the-badge)
-![Product Ops](https://img.shields.io/badge/Product_Ops-6654A4?style=for-the-badge)
-![AI Product Builder](https://img.shields.io/badge/AI_Product_Builder-0D9488?style=for-the-badge)
-<br>
-</div>
 I'm a Chilean 🇨🇱 Product Designer working at the intersection of design, business, technology, and AI.
-
 I specialize in **Fintech, Payments, Retail Ops, Design Systems, and AI-driven products.** Currently, I'm exploring how AI agents and automation can transform how product teams **discover, design, build and learn**.
 
 ### What I'm building
