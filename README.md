@@ -9,6 +9,7 @@ I specialize in **Fintech, Payments, Retail Ops, Design Systems, and AI-driven p
 | Project | What it is |
 | :--- | :--- |
 | **[AI Product Studio](https://github.com/DanielaLeyton/AI-Product-Studio-Agent)** | An agent-based framework bringing together Research Ops, Product Ops and Design Ops through reusable skills, structured artifacts and shared workflows. |
+| **[think-tank](https://github.com/DanielaLeyton/think-tank)** | Boilerplate for managing your second brain in Markdown with AI agents. |
 | **[Design Systems multi-brand](https://github.com/DanielaLeyton/fulfillment-ds)** | Exploring scalable design architectures, design tokens and multi-brand component libraries. |
 | **[Fintech & Payments](https://faab.substack.com/)** | Exploring the future of payments, Open Finance, payment orchestration and financial experiences in LATAM. |
 
